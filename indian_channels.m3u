@@ -1,6 +1,6 @@
 #EXTM3U
 # Indian TV Channels Playlist
-# Generated on: 2025-09-20 16:23:24 UTC
+# Generated on: 2025-09-21 08:22:36 UTC
 # Total Channels: 10000
 
 #EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="______Sports channels______",Sports
@@ -1013,123 +1013,135 @@ http://media.cloudbrit.com:8080/Lou123/Lou123/1846370
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846369
 #EXTINF:-1 tvg-id="" tvg-name="TVG Racing" tvg-logo="" group-title="TT Races",TVG Racing
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846368
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 02 :CFL on TSN Alouettes vs Argonauts @ Sep 20 3:00 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 02 :CFL on TSN Alouettes vs Argonauts @ Sep 20 3:00 AM
+#EXTINF:-1 tvg-id="" tvg-name="Flo College 16 :Purdue Northwest vs Ferris State @ Sep 21 1:00 PM" tvg-logo="https://www.flosports.tv/wp-content/uploads/2024/06/image-6.png" group-title="Flo College",Flo College 16 :Purdue Northwest vs Ferris State @ Sep 21 1:00 PM
+http://media.cloudbrit.com:8080/Lou123/Lou123/1846325
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 01 :ATP 250 Tennis Chengdu Quarterfinals @ Sep 21 1:00 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 01 :ATP 250 Tennis Chengdu Quarterfinals @ Sep 21 1:00 AM
+http://media.cloudbrit.com:8080/Lou123/Lou123/1846240
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 02 :ATP 250 Tennis Hangzhou Quarterfinals @ Sep 21 1:30 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 02 :ATP 250 Tennis Hangzhou Quarterfinals @ Sep 21 1:30 AM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846239
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 03 :Formula 1 On Board Camera Lance Stroll Azerbaijan Grand Prix Practice #3 @ Sep 20 4:20 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 03 :Formula 1 On Board Camera Lance Stroll Azerbaijan Grand Prix Practice #3 @ Sep 20 4:20 AM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 03 :Formula 2 Feature Race Baku @ Sep 21 2:55 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 03 :Formula 2 Feature Race Baku @ Sep 21 2:55 AM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846238
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 04 :Formula 1 On Board Camera Lando Norris Azerbaijan Grand Prix Practice #3 @ Sep 20 4:20 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 04 :Formula 1 On Board Camera Lando Norris Azerbaijan Grand Prix Practice #3 @ Sep 20 4:20 AM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 04 :2025 F1 Grand Prix Sunday Azerbaijan Grand Prix @ Sep 21 5:30 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 04 :2025 F1 Grand Prix Sunday Azerbaijan Grand Prix @ Sep 21 5:30 AM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846237
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 05 :Formula 1 Driver Tracker Azerbaijan Grand Prix Practice #3 @ Sep 20 4:20 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 05 :Formula 1 Driver Tracker Azerbaijan Grand Prix Practice #3 @ Sep 20 4:20 AM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 05 :Formula 1 On Board Camera Lance Stroll Azerbaijan Grand Prix @ Sep 21 6:30 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 05 :Formula 1 On Board Camera Lance Stroll Azerbaijan Grand Prix @ Sep 21 6:30 AM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846236
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 06 :Formula 1 Pit Lane Azerbaijan Grand Prix Practice #3 @ Sep 20 4:20 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 06 :Formula 1 Pit Lane Azerbaijan Grand Prix Practice #3 @ Sep 20 4:20 AM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 06 :Formula 1 On Board Camera Lando Norris Azerbaijan Grand Prix @ Sep 21 6:30 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 06 :Formula 1 On Board Camera Lando Norris Azerbaijan Grand Prix @ Sep 21 6:30 AM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846235
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 07 :Formula 1 Mixed On Board Camera Azerbaijan Grand Prix Practice #3 @ Sep 20 4:20 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 07 :Formula 1 Mixed On Board Camera Azerbaijan Grand Prix Practice #3 @ Sep 20 4:20 AM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 07 :Formula 1 Driver Tracker Azerbaijan Grand Prix @ Sep 21 6:30 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 07 :Formula 1 Driver Tracker Azerbaijan Grand Prix @ Sep 21 6:30 AM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846234
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 08 :Formula 1 Timing Channel Azerbaijan Grand Prix Practice #3 @ Sep 20 4:20 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 08 :Formula 1 Timing Channel Azerbaijan Grand Prix Practice #3 @ Sep 20 4:20 AM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 08 :Formula 1 Pit Lane Azerbaijan Grand Prix @ Sep 21 6:30 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 08 :Formula 1 Pit Lane Azerbaijan Grand Prix @ Sep 21 6:30 AM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846233
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 09 :Formula 1 On Board Camera Oscar Piastri Azerbaijan Grand Prix Practice #3 @ Sep 20 4:20 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 09 :Formula 1 On Board Camera Oscar Piastri Azerbaijan Grand Prix Practice #3 @ Sep 20 4:20 AM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 09 :Formula 1 Mixed On Board Camera Azerbaijan Grand Prix @ Sep 21 6:30 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 09 :Formula 1 Mixed On Board Camera Azerbaijan Grand Prix @ Sep 21 6:30 AM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846232
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 10 :CFL on TSN Lions vs Stampeders @ Sep 20 6:00 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 10 :CFL on TSN Lions vs Stampeders @ Sep 20 6:00 AM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 10 :Formula 1 Timing Channel Azerbaijan Grand Prix @ Sep 21 6:30 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 10 :Formula 1 Timing Channel Azerbaijan Grand Prix @ Sep 21 6:30 AM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846231
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 11 :Formula 2 Sprint Race Baku @ Sep 20 6:10 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 11 :Formula 2 Sprint Race Baku @ Sep 20 6:10 AM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 11 :Formula 1 On Board Camera Oscar Piastri Azerbaijan Grand Prix @ Sep 21 6:30 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 11 :Formula 1 On Board Camera Oscar Piastri Azerbaijan Grand Prix @ Sep 21 6:30 AM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846230
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 12 :2025 Formula 1 Pre Qualifying Azerbaijan Grand Prix @ Sep 20 7:15 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 12 :2025 Formula 1 Pre Qualifying Azerbaijan Grand Prix @ Sep 20 7:15 AM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 12 :2025 Formula 1 Azerbaijan Grand Prix A @ Sep 21 6:55 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 12 :2025 Formula 1 Azerbaijan Grand Prix A @ Sep 21 6:55 AM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846229
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 13 :LaLiga Girona vs Levante @ Sep 20 7:48 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 13 :LaLiga Girona vs Levante @ Sep 20 7:48 AM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 13 :LaLiga Rayo Vallecano vs Celta @ Sep 21 7:48 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 13 :LaLiga Rayo Vallecano vs Celta @ Sep 21 7:48 AM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846228
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 14 :Formula 1 On Board Camera Lance Stroll Azerbaijan Grand Prix Qualifying @ Sep 20 7:50 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 14 :Formula 1 On Board Camera Lance Stroll Azerbaijan Grand Prix Qualifying @ Sep 20 7:50 AM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 14 :2025 F1 Chequered Flag Azerbaijan Grand Prix @ Sep 21 9:00 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 14 :2025 F1 Chequered Flag Azerbaijan Grand Prix @ Sep 21 9:00 AM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846227
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 15 :Formula 1 On Board Camera Lando Norris Azerbaijan Grand Prix Qualifying @ Sep 20 7:50 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 15 :Formula 1 On Board Camera Lando Norris Azerbaijan Grand Prix Qualifying @ Sep 20 7:50 AM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 15 :CFL on TSN Elks vs Tiger Cats B @ Sep 21 9:00 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 15 :CFL on TSN Elks vs Tiger Cats B @ Sep 21 9:00 AM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846226
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 16 :Formula 1 Driver Tracker Azerbaijan Grand Prix Qualifying @ Sep 20 7:50 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 16 :Formula 1 Driver Tracker Azerbaijan Grand Prix Qualifying @ Sep 20 7:50 AM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 16 :NFL Fantasy Football Now @ Sep 21 10:00 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 16 :NFL Fantasy Football Now @ Sep 21 10:00 AM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846225
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 17 :Formula 1 Pit Lane Azerbaijan Grand Prix Qualifying @ Sep 20 7:50 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 17 :Formula 1 Pit Lane Azerbaijan Grand Prix Qualifying @ Sep 20 7:50 AM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 17 :NFL Countdown @ Sep 21 10:00 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 17 :NFL Countdown @ Sep 21 10:00 AM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846224
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 18 :Formula 1 Mixed On Board Camera Azerbaijan Grand Prix Qualifying @ Sep 20 7:50 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 18 :Formula 1 Mixed On Board Camera Azerbaijan Grand Prix Qualifying @ Sep 20 7:50 AM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 18 :LaLiga Mallorca vs Atletico Madrid @ Sep 21 10:03 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 18 :LaLiga Mallorca vs Atletico Madrid @ Sep 21 10:03 AM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846223
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 19 :Formula 1 Timing Channel Azerbaijan Grand Prix Qualifying @ Sep 20 7:50 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 19 :Formula 1 Timing Channel Azerbaijan Grand Prix Qualifying @ Sep 20 7:50 AM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 19 :Grand Prix Sportscars @ Sep 21 12:00 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 19 :Grand Prix Sportscars @ Sep 21 12:00 PM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846222
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 20 :Formula 1 On Board Camera Oscar Piastri Azerbaijan Grand Prix Qualifying @ Sep 20 7:50 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 20 :Formula 1 On Board Camera Oscar Piastri Azerbaijan Grand Prix Qualifying @ Sep 20 7:50 AM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 20 :AFL Womens Series Gold Coast Suns vs Adelaide Crows @ Sep 21 12:00 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 20 :AFL Womens Series Gold Coast Suns vs Adelaide Crows @ Sep 21 12:00 PM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846221
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 21 :2025 Formula 1 Qualifying Azerbaijan Grand Prix @ Sep 20 7:55 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 21 :2025 Formula 1 Qualifying Azerbaijan Grand Prix @ Sep 20 7:55 AM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 21 :TSNs Pre Season Draft Ranking Show A @ Sep 21 12:00 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 21 :TSNs Pre Season Draft Ranking Show A @ Sep 21 12:00 PM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846220
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 22 :ESPN College GameDay @ Sep 20 9:00 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 22 :ESPN College GameDay @ Sep 20 9:00 AM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 22 :LaLiga Elche vs Real Oviedo @ Sep 21 12:18 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 22 :LaLiga Elche vs Real Oviedo @ Sep 21 12:18 PM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846219
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 23 :SailGP Racing Geneva Day #1 A @ Sep 20 9:30 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 23 :SailGP Racing Geneva Day #1 A @ Sep 20 9:30 AM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 23 :LaLiga 2 Malaga CF vs Cadiz @ Sep 21 12:18 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 23 :LaLiga 2 Malaga CF vs Cadiz @ Sep 21 12:18 PM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846218
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 24 :LaLiga Real Madrid vs Espanyol @ Sep 20 9:45 AM" tvg-logo="" group-title="TSN PLUS",TSN+ 24 :LaLiga Real Madrid vs Espanyol @ Sep 20 9:45 AM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 24 :MLS on TSN CF Montreal vs New York @ Sep 21 12:30 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 24 :MLS on TSN CF Montreal vs New York @ Sep 21 12:30 PM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846217
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 27 :NCAA Football SMU vs TCU @ Sep 20 12:00 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 27 :NCAA Football SMU vs TCU @ Sep 20 12:00 PM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 25 :NFL RedZone @ Sep 21 1:00 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 25 :NFL RedZone @ Sep 21 1:00 PM
+http://media.cloudbrit.com:8080/Lou123/Lou123/1846216
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 26 :NFL on TSN+ Packers vs Browns @ Sep 21 1:00 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 26 :NFL on TSN+ Packers vs Browns @ Sep 21 1:00 PM
+http://media.cloudbrit.com:8080/Lou123/Lou123/1846215
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 27 :NFL on TSN Rams vs Eagles @ Sep 21 1:00 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 27 :NFL on TSN Rams vs Eagles @ Sep 21 1:00 PM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846214
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 28 :NCAA Football UNLV vs Miami OH @ Sep 20 12:00 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 28 :NCAA Football UNLV vs Miami OH @ Sep 20 12:00 PM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 28 :NASCAR Cup Series Playoffs Pre Race Mobil 1 301 @ Sep 21 1:30 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 28 :NASCAR Cup Series Playoffs Pre Race Mobil 1 301 @ Sep 21 1:30 PM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846213
 #EXTINF:-1 tvg-id="" tvg-name="TSN+ 29 :NASCAR Cup Series Practice & Qualifying Iowa Corn 350 @ Aug 2 1:30 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 29 :NASCAR Cup Series Practice & Qualifying Iowa Corn 350 @ Aug 2 1:30 PM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846212
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 30 :MLS on TSN NYCFC vs Charlotte @ Sep 20 12:00 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 30 :MLS on TSN NYCFC vs Charlotte @ Sep 20 12:00 PM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 30 :NASCAR Cup Series On Board Camera Mobil 1 301 Christopher Bell @ Sep 21 2:00 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 30 :NASCAR Cup Series On Board Camera Mobil 1 301 Christopher Bell @ Sep 21 2:00 PM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846211
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 31 :NCAA Football Bowling Green vs Louisville @ Sep 20 12:00 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 31 :NCAA Football Bowling Green vs Louisville @ Sep 20 12:00 PM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 31 :NASCAR Cup Series Playoffs Mobil 1 301 @ Sep 21 2:00 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 31 :NASCAR Cup Series Playoffs Mobil 1 301 @ Sep 21 2:00 PM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846210
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 32 :NCAA Football Arkansas vs Memphis @ Sep 20 12:00 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 32 :NCAA Football Arkansas vs Memphis @ Sep 20 12:00 PM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 32 :NSL on TSN+ Toronto vs Halifax @ Sep 21 2:00 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 32 :NSL on TSN+ Toronto vs Halifax @ Sep 21 2:00 PM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846209
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 33 :LaLiga Alaves vs Sevilla @ Sep 20 12:18 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 33 :LaLiga Alaves vs Sevilla @ Sep 20 12:18 PM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 33 :LaLiga Barcelona vs Getafe @ Sep 21 2:30 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 33 :LaLiga Barcelona vs Getafe @ Sep 21 2:30 PM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846208
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 34 :LaLiga Villarreal vs Osasuna @ Sep 20 12:25 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 34 :LaLiga Villarreal vs Osasuna @ Sep 20 12:25 PM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 34 :2025 Laver Cup Tennis Day #3 Final Session @ Sep 21 3:00 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 34 :2025 Laver Cup Tennis Day #3 Final Session @ Sep 21 3:00 PM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846207
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 35 :AFL Womens Series Fremantle vs Essendon @ Sep 20 12:30 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 35 :AFL Womens Series Fremantle vs Essendon @ Sep 20 12:30 PM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 35 :WNBA Playoffs on TSN Fever vs Aces Game 1 @ Sep 21 3:00 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 35 :WNBA Playoffs on TSN Fever vs Aces Game 1 @ Sep 21 3:00 PM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846206
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 36 :NCAA Football UAB vs Tennessee @ Sep 20 12:45 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 36 :NCAA Football UAB vs Tennessee @ Sep 20 12:45 PM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 36 :NFL on TSN Broncos vs Chargers @ Sep 21 4:00 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 36 :NFL on TSN Broncos vs Chargers @ Sep 21 4:00 PM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846205
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 37 :LaLiga Valencia vs Athletic Bilbao @ Sep 20 2:30 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 37 :LaLiga Valencia vs Athletic Bilbao @ Sep 20 2:30 PM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 37 :TSNs Pre Season Draft Ranking Show B @ Sep 21 4:30 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 37 :TSNs Pre Season Draft Ranking Show B @ Sep 21 4:30 PM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846204
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 38 :NASCAR Cup Series Practice & Qualifying Mobil 1 301 @ Sep 20 3:00 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 38 :NASCAR Cup Series Practice & Qualifying Mobil 1 301 @ Sep 20 3:00 PM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 38 :Winnipeg Jets Pre Season Wild vs Jets @ Sep 21 5:00 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 38 :Winnipeg Jets Pre Season Wild vs Jets @ Sep 21 5:00 PM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846203
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 39 :CFL Data Enhanced Feed Blue Bombers vs Redblacks @ Sep 20 3:00 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 39 :CFL Data Enhanced Feed Blue Bombers vs Redblacks @ Sep 20 3:00 PM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 39 :Sunday Night Baseball Countdown @ Sep 21 6:00 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 39 :Sunday Night Baseball Countdown @ Sep 21 6:00 PM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846202
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 40 :CPL HFX Wanderers vs Pacific @ Sep 20 3:00 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 40 :CPL HFX Wanderers vs Pacific @ Sep 20 3:00 PM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 40 :ESPN Sunday Night Baseball Mariners vs Astros @ Sep 21 7:00 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 40 :ESPN Sunday Night Baseball Mariners vs Astros @ Sep 21 7:00 PM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846201
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 41 :SC Top 50 World Hockey Championship Goals A @ Sep 20 3:00 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 41 :SC Top 50 World Hockey Championship Goals A @ Sep 20 3:00 PM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 41 :NFL Sunday Night Football Chiefs vs Giants A @ Sep 21 8:20 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 41 :NFL Sunday Night Football Chiefs vs Giants A @ Sep 21 8:20 PM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846200
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 42 :CFL on TSN Blue Bombers vs Redblacks A @ Sep 20 3:00 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 42 :CFL on TSN Blue Bombers vs Redblacks A @ Sep 20 3:00 PM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 42 :NWSL on TSN+ Bay FC vs Gotham FC @ Sep 21 8:30 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 42 :NWSL on TSN+ Bay FC vs Gotham FC @ Sep 21 8:30 PM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846199
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 43 :NCAA Football Tulane vs Ole Miss @ Sep 20 3:30 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 43 :NCAA Football Tulane vs Ole Miss @ Sep 20 3:30 PM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 43 :NFL Sunday Night Football Chiefs vs Giants B @ Sep 21 9:30 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 43 :NFL Sunday Night Football Chiefs vs Giants B @ Sep 21 9:30 PM
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846198
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 44 :NCAA Football James Madison vs Liberty @ Sep 20 3:30 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 44 :NCAA Football James Madison vs Liberty @ Sep 20 3:30 PM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 44 :" tvg-logo="" group-title="TSN PLUS",TSN+ 44 :
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846197
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 45 :NCAA Football Kent State vs Florida State @ Sep 20 3:30 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 45 :NCAA Football Kent State vs Florida State @ Sep 20 3:30 PM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 45 :" tvg-logo="" group-title="TSN PLUS",TSN+ 45 :
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846196
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 46 :TSNs Pre Season Draft Ranking Show A @ Sep 20 3:30 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 46 :TSNs Pre Season Draft Ranking Show A @ Sep 20 3:30 PM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 46 :" tvg-logo="" group-title="TSN PLUS",TSN+ 46 :
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846195
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 47 :NCAA Football Auburn vs Oklahoma @ Sep 20 3:30 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 47 :NCAA Football Auburn vs Oklahoma @ Sep 20 3:30 PM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 47 :" tvg-logo="" group-title="TSN PLUS",TSN+ 47 :
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846194
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 48 :2025 Laver Cup Tennis Day #2 Early Session @ Sep 20 4:00 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 48 :2025 Laver Cup Tennis Day #2 Early Session @ Sep 20 4:00 PM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 48 :" tvg-logo="" group-title="TSN PLUS",TSN+ 48 :
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846193
-#EXTINF:-1 tvg-id="" tvg-name="TSN+ 50 :NCAA Football Northern Illinois vs Mississippi State @ Sep 20 4:15 PM" tvg-logo="" group-title="TSN PLUS",TSN+ 50 :NCAA Football Northern Illinois vs Mississippi State @ Sep 20 4:15 PM
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 49 :" tvg-logo="" group-title="TSN PLUS",TSN+ 49 :
+http://media.cloudbrit.com:8080/Lou123/Lou123/1846192
+#EXTINF:-1 tvg-id="" tvg-name="TSN+ 50 :" tvg-logo="" group-title="TSN PLUS",TSN+ 50 :
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846191
-#EXTINF:-1 tvg-id="" tvg-name="Tennis 01 :Basavareddy, Nishesh vs Medvedev, Daniil @ Sep 20 05:30 AM - ATP Hangzhou" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tennis TV",Tennis 01 :Basavareddy, Nishesh vs Medvedev, Daniil @ Sep 20 05:30 AM - ATP Hangzhou
+#EXTINF:-1 tvg-id="" tvg-name="Tennis 01 :O'Connell, Christopher vs Tabilo, Alejandro @ Sep 21 07:00 AM - ATP Chengdu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tennis TV",Tennis 01 :O'Connell, Christopher vs Tabilo, Alejandro @ Sep 21 07:00 AM - ATP Chengdu
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846190
-#EXTINF:-1 tvg-id="" tvg-name="Tennis 02 :Daniel, Taro vs Griekspoor, Tallon @ Sep 20 07:00 AM - ATP Chengdu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tennis TV",Tennis 02 :Daniel, Taro vs Griekspoor, Tallon @ Sep 20 07:00 AM - ATP Chengdu
+#EXTINF:-1 tvg-id="" tvg-name="Tennis 02 :Krejcikova B, Siniakova K vs Joint M, McNally C @ Sep 21 07:30 AM - WTA Seoul" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tennis TV",Tennis 02 :Krejcikova B, Siniakova K vs Joint M, McNally C @ Sep 21 07:30 AM - WTA Seoul
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846189
-#EXTINF:-1 tvg-id="" tvg-name="Tennis 03 :Alexandrova, Ekaterina vs Seidel, Ella @ Sep 20 07:10 AM - WTA Seoul" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tennis TV",Tennis 03 :Alexandrova, Ekaterina vs Seidel, Ella @ Sep 20 07:10 AM - WTA Seoul
+#EXTINF:-1 tvg-id="" tvg-name="Tennis 03 :Etcheverry, Tomas Martin vs Moutet, Corentin @ Sep 21 07:30 AM - ATP Hangzhou" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tennis TV",Tennis 03 :Etcheverry, Tomas Martin vs Moutet, Corentin @ Sep 21 07:30 AM - ATP Hangzhou
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846188
-#EXTINF:-1 tvg-id="" tvg-name="Tennis 04 :Siniakova, Katerina vs Lamens, Suzan @ Sep 20 07:10 AM - WTA Seoul" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tennis TV",Tennis 04 :Siniakova, Katerina vs Lamens, Suzan @ Sep 20 07:10 AM - WTA Seoul
+#EXTINF:-1 tvg-id="" tvg-name="Tennis 04 :Giron, Marcos vs Nakashima, Brandon @ Sep 21 08:10 AM - ATP Chengdu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tennis TV",Tennis 04 :Giron, Marcos vs Nakashima, Brandon @ Sep 21 08:10 AM - ATP Chengdu
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846187
 #EXTINF:-1 tvg-id="" tvg-name="Tennis 05 :Joint M, Mcnally C vs Aoyama S, Bucsa C @ Aug 2 19:40 PM - WTA Montreal" tvg-logo="" group-title="Tennis TV",Tennis 05 :Joint M, Mcnally C vs Aoyama S, Bucsa C @ Aug 2 19:40 PM - WTA Montreal
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846186
 #EXTINF:-1 tvg-id="" tvg-name="Tennis 06 :Khachanov, Karen vs Ruud, Casper @ Aug 2 19:40 PM - ATP Toronto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tennis TV",Tennis 06 :Khachanov, Karen vs Ruud, Casper @ Aug 2 19:40 PM - ATP Toronto
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846185
-#EXTINF:-1 tvg-id="" tvg-name="Tennis 07 :Royer, Valentin vs Rublev, Andrey @ Sep 20 08:40 AM - ATP Hangzhou" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tennis TV",Tennis 07 :Royer, Valentin vs Rublev, Andrey @ Sep 20 08:40 AM - ATP Hangzhou
+#EXTINF:-1 tvg-id="" tvg-name="Tennis 07 :Medvedev, Daniil vs Wu, Yibing @ Sep 21 09:50 AM - ATP Hangzhou" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tennis TV",Tennis 07 :Medvedev, Daniil vs Wu, Yibing @ Sep 21 09:50 AM - ATP Hangzhou
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846184
-#EXTINF:-1 tvg-id="" tvg-name="Tennis 08 :Joint M, McNally C-  Chan H-C, Tauson C @ Sep 20 09:20 AM - WTA Seoul" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tennis TV",Tennis 08 :Joint M, McNally C-  Chan H-C, Tauson C @ Sep 20 09:20 AM - WTA Seoul
+#EXTINF:-1 tvg-id="" tvg-name="Tennis 08 :Swiatek, Iga vs Alexandrova, Ekaterina @ Sep 21 10:00 AM - WTA Seoul" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tennis TV",Tennis 08 :Swiatek, Iga vs Alexandrova, Ekaterina @ Sep 21 10:00 AM - WTA Seoul
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846183
-#EXTINF:-1 tvg-id="" tvg-name="Tennis 10 :Swiatek, Iga vs Joint, Maya @ Sep 20 10:00 AM - WTA Seoul" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tennis TV",Tennis 10 :Swiatek, Iga vs Joint, Maya @ Sep 20 10:00 AM - WTA Seoul
-http://media.cloudbrit.com:8080/Lou123/Lou123/1846181
+#EXTINF:-1 tvg-id="" tvg-name="Tennis 09 :Daniel, Taro vs Shevchenko, Alexander @ Sep 21 10:30 AM - ATP Chengdu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tennis TV",Tennis 09 :Daniel, Taro vs Shevchenko, Alexander @ Sep 21 10:30 AM - ATP Chengdu
+http://media.cloudbrit.com:8080/Lou123/Lou123/1846182
 #EXTINF:-1 tvg-id="" tvg-name="Tennis 11 :Gauff, Coco vs Mboko, Victoria @ Aug 3 00:00 AM - WTA Montreal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tennis TV",Tennis 11 :Gauff, Coco vs Mboko, Victoria @ Aug 3 00:00 AM - WTA Montreal
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846180
-#EXTINF:-1 tvg-id="" tvg-name="Tennis 13 :TBD vs TBD @ Sep 20 11:10 AM - WTA Seoul" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tennis TV",Tennis 13 :TBD vs TBD @ Sep 20 11:10 AM - WTA Seoul
+#EXTINF:-1 tvg-id="" tvg-name="Tennis 12 :" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tennis TV",Tennis 12 :
+http://media.cloudbrit.com:8080/Lou123/Lou123/1846179
+#EXTINF:-1 tvg-id="" tvg-name="Tennis 13 :" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tennis TV",Tennis 13 :
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846178
-#EXTINF:-1 tvg-id="" tvg-name="Tennis 14 :Krejcikova B, Siniakova K vs Xu Y, Yang Z @ Sep 20 11:30 AM - WTA Seoul" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tennis TV",Tennis 14 :Krejcikova B, Siniakova K vs Xu Y, Yang Z @ Sep 20 11:30 AM - WTA Seoul
+#EXTINF:-1 tvg-id="" tvg-name="Tennis 14 :" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tennis TV",Tennis 14 :
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846177
-#EXTINF:-1 tvg-id="" tvg-name="Tennis 15 :Svrcina, Dalibor vs Zhang, Zhizhen @ Sep 20 13:30 PM - ATP Hangzhou" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tennis TV",Tennis 15 :Svrcina, Dalibor vs Zhang, Zhizhen @ Sep 20 13:30 PM - ATP Hangzhou
+#EXTINF:-1 tvg-id="" tvg-name="Tennis 15 :" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tennis TV",Tennis 15 :
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846176
 #EXTINF:-1 tvg-id="" tvg-name="Tennis 16 :" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="Tennis TV",Tennis 16 :
 http://media.cloudbrit.com:8080/Lou123/Lou123/1846175
@@ -19991,15 +20003,3 @@ http://media.cloudbrit.com:8080/movie/Lou123/Lou123/1654288.mkv
 http://media.cloudbrit.com:8080/movie/Lou123/Lou123/406889.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Fearless Hyena" tvg-logo="http://smarter.infinitytv.world:80/images//gF6SqoziLHpKlTmwzm79b10LM0K.jpg" group-title="ENGLISH MOVIES",Fearless Hyena
 http://media.cloudbrit.com:8080/movie/Lou123/Lou123/405133.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fear PHarm" tvg-logo="http://smarter.infinitytv.world:80/images//mSlmVGukZquWwiw3Bv2sArX5UmE.jpg" group-title="ENGLISH MOVIES",Fear PHarm
-http://media.cloudbrit.com:8080/movie/Lou123/Lou123/406888.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Feedback" tvg-logo="http://smarter.infinitytv.world:80/images//kYPJbCPkyLpjD1g98hgFrVASvAK.jpg" group-title="ENGLISH MOVIES",Feedback
-http://media.cloudbrit.com:8080/movie/Lou123/Lou123/406890.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fifty Shades Darker" tvg-logo="http://smarter.infinitytv.world:80/images//7CBO9GhsUeMSsWQb47WTPZnKjdj.jpg" group-title="ENGLISH MOVIES",Fifty Shades Darker
-http://media.cloudbrit.com:8080/movie/Lou123/Lou123/406892.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fifty Shades Freed - 2018" tvg-logo="http://smarter.infinitytv.world:80/images//9ZedQHPQVveaIYmDSTazhT3y273.jpg" group-title="ENGLISH MOVIES",Fifty Shades Freed - 2018
-http://media.cloudbrit.com:8080/movie/Lou123/Lou123/1670836.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fifty Shades Of Black" tvg-logo="http://smarter.infinitytv.world:80/images//fYRiZ3vJuuCYb9H7HXfpjKO9Jd6.jpg" group-title="ENGLISH MOVIES",Fifty Shades Of Black
-http://media.cloudbrit.com:8080/movie/Lou123/Lou123/406894.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Fifty Shades Of Grey" tvg-logo="http://smarter.infinitytv.world:80/images//63kGofUkt1Mx0SIL4XI4Z5AoSgt.jpg" group-title="ENGLISH MOVIES",Fifty Shades Of Grey
-http://media.cloudbrit.com:8080/movie/Lou123/Lou123/407012.mkv
